@@ -23,7 +23,7 @@ repository               : "TheYKXiao/TheYKXiao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "furina.jpg" # "profile.png"
   name             : "Yongkang Xiao"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in AI & NLP @ University of Minnesota"
