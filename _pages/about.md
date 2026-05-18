@@ -1,5 +1,74 @@
 ---
 permalink: /
+title: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Hi, I am **Yongkang Xiao**, a Ph.D. candidate in **Health Informatics** at the University of Minnesota. My research focuses on **large language models, AI agents, graph learning, knowledge graphs, and biomedical AI**.
+
+I am broadly interested in building intelligent systems that can reason over complex information, retrieve useful evidence, and generate reliable answers. My recent work explores **agentic reasoning**, **graph-structured memory**, and **long-context multi-hop question answering**, with the goal of helping language models move beyond passive text generation toward more grounded and interpretable reasoning.
+
+Before my Ph.D., I received my M.S. degree in **Computer Science** from the University of Minnesota and my B.Eng. degree in **Chemical Engineering** from Tianjin University. My interdisciplinary background motivates my interest in developing AI methods for real-world scientific and healthcare applications.
+
+Research interests
+======
+
+My research lies at the intersection of **natural language processing**, **machine learning**, **data mining**, and **biomedical informatics**. I am especially interested in the following topics:
+
+- Large language models and AI agents
+- Retrieval-augmented generation and long-context reasoning
+- Graph-structured memory for agentic systems
+- Knowledge graphs and graph neural networks
+- Biomedical NLP and healthcare AI
+- Link prediction and reasoning over biomedical knowledge graphs
+
+Current research
+------
+
+My current research focuses on building AI agents with structured memory for complex reasoning tasks. In particular, I am working on methods that convert long documents into reusable graph-structured memory, where factual evidence is organized as typed triples with provenance information. At inference time, an agent can actively plan reasoning steps, retrieve relevant evidence chains, and generate grounded answers.
+
+This line of work is motivated by a simple question: **how can we make language-model-based agents reason more reliably over long and complex contexts?**
+
+Rather than treating long-context question answering as a single-pass generation problem, I am interested in decomposing it into memory construction, reasoning planning, evidence retrieval, and answer generation. This framework connects ideas from retrieval-augmented generation, knowledge graphs, multi-hop reasoning, and agentic AI.
+
+Previous work
+======
+
+I have also worked on **biomedical knowledge graphs** and **graph neural networks**. My previous research studied how to improve link prediction in biomedical knowledge graphs by combining graph structure, textual representations from language models, and domain knowledge from biomedical ontologies.
+
+More broadly, I am interested in methods that integrate **structured knowledge** and **language representations**. I believe this direction is important for building AI systems that are not only accurate, but also more interpretable, controllable, and useful in scientific domains.
+
+Background
+======
+
+I am a Ph.D. candidate in Health Informatics at the University of Minnesota. I also received my M.S. degree in Computer Science from the University of Minnesota.
+
+Before coming to Minnesota, I completed my undergraduate study in Chemical Engineering at Tianjin University. This background gives me a broad perspective across AI, computing, biomedical research, and engineering applications.
+
+Skills and tools
+------
+
+I primarily work with **Python**, **PyTorch**, **Transformers**, **graph learning frameworks**, and modern LLM toolchains. I also have experience with knowledge graph construction, graph neural networks, retrieval systems, and large-scale experimental pipelines.
+
+My research and development experience includes:
+
+- LLM-based agents and reasoning pipelines
+- Retrieval-augmented generation systems
+- Knowledge graph construction and representation learning
+- Graph neural networks for link prediction
+- Biomedical data mining and NLP
+- Model training, evaluation, and experimental analysis
+
+Contact
+======
+
+I am always happy to discuss research ideas, collaborations, and opportunities related to AI agents, language models, knowledge graphs, and biomedical AI. Please feel free to reach out by email.
+
+<!-- ---
+permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
@@ -53,4 +122,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

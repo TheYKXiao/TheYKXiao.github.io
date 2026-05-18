@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV / Résumé"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Health Informatics, University of Minnesota (present)
+* M.S. in Computer Science, University of Minnesota
+* B.Eng. in Chemical Engineering, Tianjin University
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant (2023-present)
+  * University of Minnesota, Division of Computational Health Sciences
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+  {% endfor %}</ul> -->
+
+Teaching
 ======
-* Currently signed in to 43 different slack teams
+* TA for HINF 5531: Health Data Analytics and Data Science, University of Minnesota, Spring 2025
+* TA for HINF 5510: Database Principles and Data Evaluation, University of Minnesota, Fall 2024
+  
+Professional Service
+======
+* Reviewer for journals including *Genome Biology*, *Journal of the American Medical Informatics Association (JAMIA)*, *Knowledge and Information Systems (KAIS)*, *BMC Bioinformatics*, etc.
+* Reviewer for conferences including AAAI, KDD, ACL, EMNLP, etc.
+
+
+Selected Coursework
+======
+* **AI & Machine Learning:** Machine Learning (CSCI 5521/5525), Natural Language Processing (CSCI 5541), Data Mining (CSCI 5523), Artificial Intelligence (CSCI 5511/5512), Reinforcement Learning Specialization (UAlberta, Coursera).
+* **Computer Science:** Advanced Algorithms and Data Structures (CSCI 5421), Operating Systems (CSCI 5103), Parallel Computing (CSCI 5451), Computer Graphics (CSCI 5607).
+* **Bioinformatics & Biostatistics:** Health Informatics (HINF 5430/5431/8430), Translational Bioinformatics (HINF 5440/8440), Biostatistics (PUBH 6450/6451).
+<!-- * **Mathematics:** Matrix Theory (CSCI 5304), Nonlinear Optimization (EE 5239). -->
