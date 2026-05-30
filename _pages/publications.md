@@ -10,6 +10,13 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+## Ongoing Projects 
+
+* A project related to agentic memory and reinforcement learning. More details will be added after the review process.
+
+* LLM-based agent for clinical tasks.
+
+
 
 ## Selected Publications
 

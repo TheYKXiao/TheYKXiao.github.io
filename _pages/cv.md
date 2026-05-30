@@ -55,7 +55,7 @@ Teaching
 Professional Service
 ======
 * Reviewer for journals including *Genome Biology*, *Journal of the American Medical Informatics Association (JAMIA)*, *Knowledge and Information Systems (KAIS)*, *BMC Bioinformatics*, etc.
-* Reviewer for conferences including AAAI, KDD, ACL, EMNLP, etc.
+* Reviewer for conferences including AAAI, ACL, EMNLP, KDD, etc.
 
 
 Selected Coursework
