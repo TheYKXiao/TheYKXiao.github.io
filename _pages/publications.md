@@ -44,7 +44,7 @@ author_profile: true
 
 * **Xiao, Y.**, Zhou, H., Yang, H., Li, M., Zhan, Z., and Zhang, R. (2026). Completing Multimodal Biomedical Knowledge Graphs with Schema-Aware Modality Imputation and Alignment. (Accepted at SIGKDD 2026).
 
-* **Xiao, Y.** and Zhang, R. (2026). HERGC: Heterogeneous Experts Representation and Generative Completion for Multimodal Knowledge Graphs. (Accepted at PAKDD 2026).
+* **Xiao, Y.** and Zhang, R. (2026). HERGC: Heterogeneous Experts Representation and Generative Completion for Multimodal Knowledge Graphs. *Advances in Knowledge Discovery and Data Mining (PAKDD 2026)*, pages 327–339. 
 
 * Zhan, Z., Zhou, S., Zhou, X., **Xiao, Y**., Wang, J., Deng, J., Zhu, H., Hou, Y., Song, Y., Lin, M. and Zhang, R. (2026). Retrieval-augmented in-context learning for multimodal large language models in disease classification. *Journal of Biomedical Informatics*, 105017.
 
