@@ -55,7 +55,7 @@ Teaching
   
 Professional Service
 ======
-* Reviewer for journals including *npj Digital Medicine*, *Genome Biology*, *Journal of the American Medical Informatics Association (JAMIA)*, *Journal of Biomedical Informatics (JBI)*, *Knowledge and Information Systems (KAIS)*, *BMC Bioinformatics*, etc.
+* Reviewer for journals including *npj Digital Medicine*, *Genome Biology*, *Journal of the American Medical Informatics Association (JAMIA)*, *Journal of Biomedical Informatics (JBI)*, *ACM Transactions on Computing for Healthcare (HEALTH)*, *Knowledge and Information Systems (KAIS)*, *BMC Medical Informatics and Decision Making*, *BMC Bioinformatics*, etc.
 * Reviewer for conferences including AAAI, ACL, EMNLP, KDD, etc.
 
 
