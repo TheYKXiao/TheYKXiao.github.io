@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
@@ -12,9 +12,9 @@ author_profile: true
 
 ## Ongoing Projects 
 
-* A project related to agentic memory and reinforcement learning. More details will be added after the review process.
+* A project related to agentic RAG and reinforcement learning. More details will be added after the review process.
 
-* LLM-based agent for clinical tasks.
+* LLM-based agent for scientific discovery.
 
 
 
@@ -42,7 +42,7 @@ author_profile: true
   *Scientific reports*, 2024. -->
 
 
-* **Xiao, Y.**, Zhou, H., Yang, H., Li, M., Zhan, Z., and Zhang, R. (2026). Completing Multimodal Biomedical Knowledge Graphs with Schema-Aware Modality Imputation and Alignment. (Accepted at SIGKDD 2026).
+* **Xiao, Y.**, Zhou, H., Yang, H., Li, M., Zhan, Z., and Zhang, R. (2026). Completing Multimodal Biomedical Knowledge Graphs with Schema-Aware Modality Imputation and Alignment. *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, pages 12480-12491. 
 
 * **Xiao, Y.** and Zhang, R. (2026). HERGC: Heterogeneous Experts Representation and Generative Completion for Multimodal Knowledge Graphs. *Advances in Knowledge Discovery and Data Mining (PAKDD 2026)*, pages 327–339. 
 
