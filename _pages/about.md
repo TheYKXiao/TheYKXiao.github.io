@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am **Yongkang Xiao**, a Ph.D. candidate in **Health Informatics** at the University of Minnesota, Twin Cities. My research focuses on **large language models, LLM-based agents, knowledge graphs, graph learning, and biomedical AI**. I received my M.S. degree in **Computer Science** from the University of Minnesota, Twin Cities and my bachelor's degree from Tianjin University.
+Hi, I am **Yongkang Xiao**, a Ph.D. candidate in **Health Informatics** at the University of Minnesota, Twin Cities. My research focuses on **large language models, LLM-based agents, knowledge graphs, graph learning, and biomedical AI**. I received my M.S. degree in **Computer Science** from the University of Minnesota, Twin Cities, and my bachelor's degree from Tianjin University.
 
 Research interests
 ======
