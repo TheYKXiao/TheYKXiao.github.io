@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Health Informatics, University of Minnesota (present)
+* M.S. in Health Informatics, University of Minnesota
 * M.S. in Computer Science, University of Minnesota
 * B.Eng. in Chemical Engineering, Tianjin University
 
