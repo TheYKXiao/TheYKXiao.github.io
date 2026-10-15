@@ -1,14 +1,11 @@
 ---
 permalink: /
-# title: "About"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About
-======
 
 Hi, I am **Yongkang Xiao**, a Ph.D. candidate in **Health Informatics** at the University of Minnesota, Twin Cities. My research focuses on **large language models, LLM-based agents, knowledge graphs, graph learning, and biomedical AI**. Before my Ph.D., I received my M.S. degree in **Computer Science** and **Health Informatics** from the University of Minnesota, Twin Cities.
 
